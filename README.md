@@ -12,7 +12,9 @@ The adavantages of this system should be:
 3. contributes to instrument error detection
 
 ## Run
+
 * run web-app:
+
 	step 1: bind database in server_new/monitor_system/__init__
 
 	step 2: run server_new/app.py
@@ -21,7 +23,7 @@ The adavantages of this system should be:
 
 	step 1. open admin.txt, add new admin info in a new line. 
 	
-	adminname, email, pwd seperated by colon. Eg. admin: admin123@gmail.com: 123
+	the format should be: adminname, email, pwd seperated by colon. Eg. admin: admin123@gmail.com: 123
 		
 	step2. run readAdmin.py
 
