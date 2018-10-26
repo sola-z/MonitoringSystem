@@ -1,7 +1,7 @@
 
 # Monitoring System
 This is a  Web-based real-time monitoring system to record and visualise the uptime and downtime of instruments.
-A administrator module is here for easily manage organisations and isntruments.
+A administrator module is built to easily manage organisations and isntruments.
 
 The adavantages of this system should be:
 
